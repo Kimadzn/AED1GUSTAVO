@@ -7,6 +7,6 @@ int main(){
     {
         soma = soma + i;
     }
-    
+    printf("A soma e %d", soma);
     return 0;
 }

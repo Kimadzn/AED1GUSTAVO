@@ -11,5 +11,7 @@ for (int  i = 0; i < n; i++)
 {
     soma = 1/(pow(2,i));
 }
+
+    printf("A soma e %d", soma);    
     return 0;
 }
