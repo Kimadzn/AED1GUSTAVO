@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "E2.C": "cpp"
+        "E2.C": "cpp",
+        "stdlib.h": "c"
     }
 }
